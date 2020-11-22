@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Mbassip2
+ * @author leyantong
  */
 public class BoardState {
     
