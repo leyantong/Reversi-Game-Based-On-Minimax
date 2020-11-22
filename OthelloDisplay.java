@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Mbassip2
+ * @author leyantong
  */
 public class OthelloDisplay extends JFrame implements MouseListener{
     
